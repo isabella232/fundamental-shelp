@@ -1,5 +1,7 @@
 # fundamental-shelp
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/fundamental-shelp)](https://api.reuse.software/info/github.com/SAP/fundamental-shelp)
+
 [fundamental-tools](https://github.com/SAP/fundamental-tools) app server component, exposing ABAP Value Input Helps:
 
 - Field Domain Values
@@ -40,7 +42,7 @@ The attribute can be added by [fundamental-tools](https://github.com/SAP/fundame
 
 The run-time implementation may look like:
 
-![screenshot](./assets/screenshot.jpg)
+![screenshot](./assets/ValueInputHelpsDialog.jpg)
 
 # Prerequisites
 
