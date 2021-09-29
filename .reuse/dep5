@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: fundamental-tools
+Upstream-Name: fundamental-shelp
 Upstream-Contact: Srdjan Boskovic <srdjan.boskovic@sap.com>
-Source: https://github.com/SAP/fundamental-tools
+Source: https://github.com/SAP/fundamental-shelp
 Disclaimer: The code in this project may include calls to APIs (“API Calls”) of
  SAP or third-party products or services developed outside of this project
  (“External Products”).
